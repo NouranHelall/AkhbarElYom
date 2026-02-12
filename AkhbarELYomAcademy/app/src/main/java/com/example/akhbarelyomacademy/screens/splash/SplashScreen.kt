@@ -70,6 +70,7 @@ fun SplashScreen(navController: NavController) {
                 fontSize = 24.sp,
                 color = Color.White,
                 fontWeight = FontWeight.Bold
+                //
             )
             }
         }
